@@ -1,1 +1,1 @@
-# tqc-cc-assignment0-template
+# Assignment 0: Getting started with Git and Github
